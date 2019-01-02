@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/42f7d2f4ca29b69e02b1e9ae4b5e23c9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c3459fac6d77fa19730d2f8ed1676a92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12560fe9b283003b2dafc45aa131d41f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b1afac5b60a0ff8db9474166f83a1673/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dd3b3c75fbb0d6cd7e98fe8a90d40605/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/da25649b063d84bcd51ca6ed12cbecd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c907472d01d2833116b4d49aa0c19738/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/84ba3b014b590e45e2a5d3075a053469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2b975bebc62a82c25c7c4391b5f62f34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f5d3b03a07534e22bacb3b9987c0e417/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ef0f2a373ef037d33496281f9756d2e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/de5ec2444d3f36b65b3ff7cafd8655dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/02dfe75f7a10d884946f99eb2627abe6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/689a66fe43d9ca59e9fbfbf338036e8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00a34a0378c84c8b98d7a512b69fae1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e12d77b761c046e5aa6f383df0344628/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/594998405c69fc5e07f1215794feb1f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d9ec3ce3b400a92e6c8f63e882cf76ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/788cdccee032700c9781cf464ab4edbb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43a5ef5b45ea5f5d225942c1ef9e3fee/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d73b68581fcef256bcf21a190076f921/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d2da8c649043802abe600ee977c1b1d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7f4ec06b853129e0c4e190a670ed0255/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/19317fb5f015dfebade986d739068eb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6f61e5a68f96ca6fb820902df856ef0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fa6a67ac669a81164a1d21530eeb0ef6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/30e5aeb32a2685c67542d3d8d21b59cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/086cc60f385399bf3c06e4ab3e832e21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fa2931984ca4dba65e840f6b1341d42b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5edca796468d15339c9d9b662b710043/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/65cfc97a7375b10dfae829216822dffc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:3:11-33
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/42f7d2f4ca29b69e02b1e9ae4b5e23c9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/42f7d2f4ca29b69e02b1e9ae4b5e23c9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12560fe9b283003b2dafc45aa131d41f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12560fe9b283003b2dafc45aa131d41f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/788cdccee032700c9781cf464ab4edbb/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/788cdccee032700c9781cf464ab4edbb/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43a5ef5b45ea5f5d225942c1ef9e3fee/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43a5ef5b45ea5f5d225942c1ef9e3fee/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/788cdccee032700c9781cf464ab4edbb/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.hady.yip.MainActivity
+ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/42f7d2f4ca29b69e02b1e9ae4b5e23c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/42f7d2f4ca29b69e02b1e9ae4b5e23c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c3459fac6d77fa19730d2f8ed1676a92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c3459fac6d77fa19730d2f8ed1676a92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12560fe9b283003b2dafc45aa131d41f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/12560fe9b283003b2dafc45aa131d41f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b1afac5b60a0ff8db9474166f83a1673/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b1afac5b60a0ff8db9474166f83a1673/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dd3b3c75fbb0d6cd7e98fe8a90d40605/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/dd3b3c75fbb0d6cd7e98fe8a90d40605/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/da25649b063d84bcd51ca6ed12cbecd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/da25649b063d84bcd51ca6ed12cbecd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c907472d01d2833116b4d49aa0c19738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c907472d01d2833116b4d49aa0c19738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/84ba3b014b590e45e2a5d3075a053469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/84ba3b014b590e45e2a5d3075a053469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2b975bebc62a82c25c7c4391b5f62f34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2b975bebc62a82c25c7c4391b5f62f34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f5d3b03a07534e22bacb3b9987c0e417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f5d3b03a07534e22bacb3b9987c0e417/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ef0f2a373ef037d33496281f9756d2e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ef0f2a373ef037d33496281f9756d2e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/de5ec2444d3f36b65b3ff7cafd8655dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/de5ec2444d3f36b65b3ff7cafd8655dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/02dfe75f7a10d884946f99eb2627abe6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/02dfe75f7a10d884946f99eb2627abe6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/689a66fe43d9ca59e9fbfbf338036e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/689a66fe43d9ca59e9fbfbf338036e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00a34a0378c84c8b98d7a512b69fae1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/00a34a0378c84c8b98d7a512b69fae1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e12d77b761c046e5aa6f383df0344628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e12d77b761c046e5aa6f383df0344628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/594998405c69fc5e07f1215794feb1f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/594998405c69fc5e07f1215794feb1f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d9ec3ce3b400a92e6c8f63e882cf76ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d9ec3ce3b400a92e6c8f63e882cf76ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/788cdccee032700c9781cf464ab4edbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/788cdccee032700c9781cf464ab4edbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43a5ef5b45ea5f5d225942c1ef9e3fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43a5ef5b45ea5f5d225942c1ef9e3fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d73b68581fcef256bcf21a190076f921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d73b68581fcef256bcf21a190076f921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d2da8c649043802abe600ee977c1b1d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d2da8c649043802abe600ee977c1b1d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7f4ec06b853129e0c4e190a670ed0255/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7f4ec06b853129e0c4e190a670ed0255/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/19317fb5f015dfebade986d739068eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/19317fb5f015dfebade986d739068eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6f61e5a68f96ca6fb820902df856ef0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6f61e5a68f96ca6fb820902df856ef0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fa6a67ac669a81164a1d21530eeb0ef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fa6a67ac669a81164a1d21530eeb0ef6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/30e5aeb32a2685c67542d3d8d21b59cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/30e5aeb32a2685c67542d3d8d21b59cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/086cc60f385399bf3c06e4ab3e832e21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/086cc60f385399bf3c06e4ab3e832e21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fa2931984ca4dba65e840f6b1341d42b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fa2931984ca4dba65e840f6b1341d42b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5edca796468d15339c9d9b662b710043/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5edca796468d15339c9d9b662b710043/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/65cfc97a7375b10dfae829216822dffc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hardik.mehta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/65cfc97a7375b10dfae829216822dffc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hardik.mehta/Documents/Github/Yearinpixels/app/src/main/AndroidManifest.xml
